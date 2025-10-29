@@ -106,11 +106,11 @@ Define las acciones y sonidos de nuestro gato.
 
 Primero, crearás una "copia segura" del proyecto para hacer tus cambios.
 
-1.  Asegúrate de estar en la pestaña principal del repositorio, bajo el ícono `<strong><> Code</strong>`.
-2.  Haz clic en el botón de ramas (el que dice `main` <strong>(main branch)</strong>).
+1.  Asegúrate de estar en la pestaña principal del repositorio, bajo el ícono `<strong>(Code)</strong>`.
+2.  Haz clic en el botón de ramas (el que dice `main` <strong>(main)</strong>).
 3.  En el cuadro de texto, escribe el nombre de tu nueva rama. Usaremos un patrón para identificarla:
     `seccion-subseccion-iniciales`
-    * *Ejemplo: `ojos-color-jpr`* (si te llamas Juan Pérez y vas a cambiar el color de los ojos).
+    * *Ejemplo: `cara-ojos-vc`* (si te llamas Valentina Chacón y vas a cambiar los ojos).
 4.  Haz clic en **"Create branch: [tu-nombre-de-rama]"** en la parte inferior.
 
 ### Parte 2: Editar el Archivo en tu Rama
@@ -125,7 +125,7 @@ Primero, crearás una "copia segura" del proyecto para hacer tus cambios.
 
 ### Parte 3: Guardar Cambios (Commit) y Proponer (Pull Request)
 
-1.  Una vez que hayas hecho tu cambio, desplázate hasta la parte inferior de la página.
+1.  Una vez que hayas hecho tu cambio, desplázate hasta la parte superior de la página.
 2.  Verás una sección llamada **"Commit changes"** (Confirmar cambios).
 3.  Escribe un mensaje claro en el primer cuadro de texto, por ejemplo: "Propuesta: Cambiar color de ojos a Verde Esmeralda".
 4.  Asegúrate de que la opción seleccionada diga **"Commit directly to the `[tu-nombre-de-rama]` branch."**
