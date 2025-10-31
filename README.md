@@ -64,18 +64,18 @@ Esta sección define todos los rasgos faciales.
 
 Define la estructura física del gato.
 
-* **Tamaño:**
-* **Forma:**
-* **Textura Pelaje:**
-* **Descripción:**
+* **Tamaño:** Mediano 25cm de alto x 20cm de ancho.
+* **Forma:** Redondeada y suave, con formas suaves que transmiten confianza y modernidad.
+* **Textura Pelaje:** Pelaje corto a mediano, sedoso y brillante sutil que va de un morado más oscuro a uno más claro.
+* **Descripción:** El cuerpo del gato es amigable no intimidante, con lineas minimalistas. Donde tiene patrones donde se vea NU en el lomo, tiene un patrón geométrico. Las patas son proporcionadas y firmes, con almohadillas en color lila.
 
 #### 3.1 Subsección: Cola (`tail`)
 
-* **Presente:**
-* **Forma:**
-* **Color:**
-* **Punta Color:**
-* **Descripción:**
+* **Presente:** Si
+* **Forma:** Larga y esponjosa (aprox. 18cm) curveada hacia arriba formando una curva similar a "?"
+* **Color:** Morado degradado donde tiene un color morado oscuro hasta llegar a la punta en tonos más suaves hasta llegar a ser blanco.
+* **Punta Color:** Blanca
+* **Descripción:** La cola del gato Nu distintiva donde es peluda, voluminosa y esponjosa
 
 ---
 
@@ -85,16 +85,16 @@ Define las acciones y sonidos de nuestro gato.
 
 #### 4.1 Subsección: Sonidos (`sounds`)
 
-* **Maullido:**
-* **Ronroneo:**
-* **Descripción:**
+* **Maullido:** Sí. 50dB
+* **Ronroneo:** No
+* **Descripción:** El gato maulla relativamente bajo por problemas en sus cuerdas vocales
 
 #### 4.2 SubseScción: Acciones (`actions`)
 
-* **Mover Cola:**
-* **Parpadear:**
-* **Dormir:**
-* **Descripción:**
+* **Mover Cola:** Sí. siempre señalando hacia arriba en sentido de alerta
+* **Parpadear:** Si. de 25 parpadeos por minutos
+* **Dormir:** de 4-7 horas
+* **Descripción:** El gato siempre está alerta ! esta en constante parpadeo para mantener sus ojos hidratados y no tener problemas de visión
 
 ---
 
