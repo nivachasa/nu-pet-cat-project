@@ -38,10 +38,15 @@ Esta sección define todos los rasgos faciales.
 #### 2.2 Subsección: Boca (`mouth`)
 
 * **Cantidad:**
+* 3
 * **Forma:**
+* triangular
 * **Color Nariz:**
+* verde
 * **Mostrar Lengua:**
-* **Descripción:**
+* Si
+* **Descripción:** La forma, color y brillo de la boca de nuestro Gato Nu Mascota.
+  
 
 #### 2.3 Subsección: Bigotes (`whiskers`)
 
