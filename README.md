@@ -76,11 +76,11 @@ Define la estructura física del gato.
 
 #### 3.1 Subsección: Cola (`tail`)
 
-* **Presente:**Bien
-* **Forma:**Larga
-* **Color:**Verde
-* **Punta Color:**Amarilla
-* **Descripción:**Suave
+* **Presente:** Si
+* **Forma:** Enroscada
+* **Color:** Blanco
+* **Punta Color:** Negra
+* **Descripción:** Esponjosa
 
 ---
 
