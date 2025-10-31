@@ -28,40 +28,35 @@ Esta sección define todos los rasgos faciales.
 
 #### 2.1 Subsección: Ojos (`eyes`)
 
-* **Cantidad:** 2
+* **Cantidad:** 3
 * **Forma:** "Almendrados"
 * **Color Iris:** "Dorado"
 * **Color Pupila:** "Negro"
-* **Brillo:** "Sutil"
+* **Brillo:** "Intenso"
 * **Descripción:** La forma, color y brillo de los ojos de nuestro Gato Nu Mascota.
 
 #### 2.2 Subsección: Boca (`mouth`)
 
-* **Cantidad:**
-* 3
-* **Forma:**
-* triangular
-* **Color Nariz:**
-* verde
-* **Mostrar Lengua:**
-* Si
-* **Descripción:** La forma, color y brillo de la boca de nuestro Gato Nu Mascota.
-  
+* **Cantidad:*1*
+* **Forma:*redonda*
+* **Color Nariz:*negra*
+* **Mostrar Lengua:*si*
+* **Descripción:*la forma y color de la boca de nuestro Gato Nu Mascota*
 
 #### 2.3 Subsección: Bigotes (`whiskers`)
 
-* **Cantidad por Lado:** 6
-* **Color:** negros
-* **Forma:** ondulados
-* **Tamaño:** pequeño
-* **Descripción:** 6 bigotes pequeños de color negro ondulados
+* **Cantidad por Lado:*25*
+* **Color:*blanco*
+* **Forma:*rizados*
+* **Tamaño:*3cm*
+* **Descripción:*Color, forma y tamaño de los bigotes de nuestro Gato Nu Mascota*
 
 #### 2.4 Subsección: Cejas (`eyebrows`)
 
-* **Visibles:** si
-* **Color:** negras
-* **Forma:** arco
-* **Descripción:** cejas negras en forma de arco
+* **Visibles:*si*
+* **Color:*blanco*
+* **Forma:*arqueadas*
+* **Descripción:*Color y forma de las cejas de nuestro Gato Nu Mascota*
 
 ---
 
