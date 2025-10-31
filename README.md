@@ -87,6 +87,9 @@ Define las acciones y sonidos de nuestro gato.
 
 * **Maullido:**
 * **Ronroneo:**
+* **miau**
+* **meow**
+* **bufar**
 * **Descripción:**
 
 #### 4.2 SubseScción: Acciones (`actions`)
