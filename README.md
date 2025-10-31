@@ -64,18 +64,18 @@ Esta sección define todos los rasgos faciales.
 
 Define la estructura física del gato.
 
-* **Tamaño:**
-* **Forma:**
-* **Textura Pelaje:**
-* **Descripción:**
+* **Tamaño:**Grande
+* **Forma:**Redonda
+* **Textura Pelaje:**Suave
+* **Descripción:**Tierno
 
 #### 3.1 Subsección: Cola (`tail`)
 
-* **Presente:**
-* **Forma:**
-* **Color:**
-* **Punta Color:**
-* **Descripción:**
+* **Presente:**Bien
+* **Forma:**Larga
+* **Color:**Verde
+* **Punta Color:**Amarilla
+* **Descripción:**Suave
 
 ---
 
