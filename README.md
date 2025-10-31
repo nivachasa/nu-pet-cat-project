@@ -37,11 +37,12 @@ Esta sección define todos los rasgos faciales.
 
 #### 2.2 Subsección: Boca (`mouth`)
 
-* **Cantidad:**
-* **Forma:**
-* **Color Nariz:**
-* **Mostrar Lengua:**
-* **Descripción:**
+* **Cantidad:**3
+* **Forma:** Triangular
+* **Color Nariz:** Verde
+* **Mostrar Lengua:** Si
+* **Descripción:** La forma, color y brillo de la boca de nuestro Gato Nu Mascota.
+  
 
 #### 2.3 Subsección: Bigotes (`whiskers`)
 
@@ -85,16 +86,16 @@ Define las acciones y sonidos de nuestro gato.
 
 #### 4.1 Subsección: Sonidos (`sounds`)
 
-* **Maullido:**
-* **Ronroneo:**
-* **Descripción:**
+* **Maullido:** Miauuuu
+* **Ronroneo:** N/A
+* **Descripción:** Fuerte, agudo 
 
 #### 4.2 SubseScción: Acciones (`actions`)
 
-* **Mover Cola:**
-* **Parpadear:**
-* **Dormir:**
-* **Descripción:**
+* **Mover Cola:** Si
+* **Parpadear:** Mucho
+* **Dormir:** No duerme
+* **Descripción:** 
 
 ---
 
