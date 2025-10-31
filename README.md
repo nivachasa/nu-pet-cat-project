@@ -90,16 +90,16 @@ Define las acciones y sonidos de nuestro gato.
 
 #### 4.1 Subsección: Sonidos (`sounds`)
 
-* **Maullido:**
-* **Ronroneo:**
-* **Descripción:**
+* **Maullido:** Sí. 50dB
+* **Ronroneo:** No
+* **Descripción:** El gato maulla relativamente bajo por problemas en sus cuerdas vocales
 
 #### 4.2 SubseScción: Acciones (`actions`)
 
-* **Mover Cola:**
-* **Parpadear:**
-* **Dormir:**
-* **Descripción:**
+* **Mover Cola:** Sí. siempre señalando hacia arriba en sentido de alerta
+* **Parpadear:** Si. de 25 parpadeos por minutos
+* **Dormir:** de 4-7 horas
+* **Descripción:** El gato siempre está alerta ! esta en constante parpadeo para mantener sus ojos hidratados y no tener problemas de visión
 
 ---
 
