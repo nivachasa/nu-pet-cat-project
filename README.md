@@ -28,36 +28,35 @@ Esta sección define todos los rasgos faciales.
 
 #### 2.1 Subsección: Ojos (`eyes`)
 
-* **Cantidad:** 2
+* **Cantidad:** 3
 * **Forma:** "Almendrados"
 * **Color Iris:** "Dorado"
 * **Color Pupila:** "Negro"
-* **Brillo:** "Sutil"
+* **Brillo:** "Intenso"
 * **Descripción:** La forma, color y brillo de los ojos de nuestro Gato Nu Mascota.
 
 #### 2.2 Subsección: Boca (`mouth`)
 
-* **Cantidad:**3
-* **Forma:** Triangular
-* **Color Nariz:** Verde
-* **Mostrar Lengua:** Si
-* **Descripción:** La forma, color y brillo de la boca de nuestro Gato Nu Mascota.
-  
+* **Cantidad:*1*
+* **Forma:*redonda*
+* **Color Nariz:*negra*
+* **Mostrar Lengua:*si*
+* **Descripción:*la forma y color de la boca de nuestro Gato Nu Mascota*
 
 #### 2.3 Subsección: Bigotes (`whiskers`)
 
-* **Cantidad por Lado:**
-* **Color:**
-* **Forma:**
-* **Tamaño:**
-* **Descripción:**
+* **Cantidad por Lado:*25*
+* **Color:*blanco*
+* **Forma:*rizados*
+* **Tamaño:*3cm*
+* **Descripción:*Color, forma y tamaño de los bigotes de nuestro Gato Nu Mascota*
 
 #### 2.4 Subsección: Cejas (`eyebrows`)
 
-* **Visibles:**
-* **Color:**
-* **Forma:**
-* **Descripción:**
+* **Visibles:*si*
+* **Color:*blanco*
+* **Forma:*arqueadas*
+* **Descripción:*Color y forma de las cejas de nuestro Gato Nu Mascota*
 
 ---
 
@@ -65,18 +64,18 @@ Esta sección define todos los rasgos faciales.
 
 Define la estructura física del gato.
 
-* **Tamaño:**Grande
-* **Forma:**Redonda
-* **Textura Pelaje:**Suave
-* **Descripción:**Tierno
+* **Tamaño:**
+* **Forma:**
+* **Textura Pelaje:**
+* **Descripción:**
 
 #### 3.1 Subsección: Cola (`tail`)
 
-* **Presente:**Bien
-* **Forma:**Larga
-* **Color:**Verde
-* **Punta Color:**Amarilla
-* **Descripción:**Suave
+* **Presente:**
+* **Forma:**
+* **Color:**
+* **Punta Color:**
+* **Descripción:**
 
 ---
 
@@ -86,16 +85,16 @@ Define las acciones y sonidos de nuestro gato.
 
 #### 4.1 Subsección: Sonidos (`sounds`)
 
-* **Maullido:** Miauuuu
-* **Ronroneo:** N/A
-* **Descripción:** Fuerte, agudo 
+* **Maullido:**
+* **Ronroneo:**
+* **Descripción:**
 
 #### 4.2 SubseScción: Acciones (`actions`)
 
-* **Mover Cola:** Si
-* **Parpadear:** Mucho
-* **Dormir:** No duerme
-* **Descripción:** 
+* **Mover Cola:**
+* **Parpadear:**
+* **Dormir:**
+* **Descripción:**
 
 ---
 
