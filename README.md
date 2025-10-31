@@ -65,18 +65,18 @@ Esta sección define todos los rasgos faciales.
 
 Define la estructura física del gato.
 
-* **Tamaño:**Grande
-* **Forma:**Redonda
-* **Textura Pelaje:**Suave
-* **Descripción:**Tierno
+* **Tamaño:** Mediano 25cm de alto x 20cm de ancho.
+* **Forma:** Redondeada y suave, con formas suaves que transmiten confianza y modernidad.
+* **Textura Pelaje:** Pelaje corto a mediano, sedoso y brillante sutil que va de un morado más oscuro a uno más claro.
+* **Descripción:** El cuerpo del gato es amigable no intimidante, con lineas minimalistas. Donde tiene patrones donde se vea NU en el lomo, tiene un patrón geométrico. Las patas son proporcionadas y firmes, con almohadillas en color lila.
 
 #### 3.1 Subsección: Cola (`tail`)
 
-* **Presente:**Bien
-* **Forma:**Larga
-* **Color:**Verde
-* **Punta Color:**Amarilla
-* **Descripción:**Suave
+* **Presente:** Si
+* **Forma:** Larga y esponjosa (aprox. 18cm) curveada hacia arriba formando una curva similar a "?"
+* **Color:** Morado degradado donde tiene un color morado oscuro hasta llegar a la punta en tonos más suaves hasta llegar a ser blanco.
+* **Punta Color:** Blanca
+* **Descripción:** La cola del gato Nu distintiva donde es peluda, voluminosa y esponjosa
 
 ---
 
